@@ -6,7 +6,7 @@
  * 和研究生类Graduate，本科生类增加属性：专业(specialty),研究生类增加属性：研究方向(direction)。每个类都有构造方法和用于输出属性信息的
  * show()方法，在测试类TestExtends中测试输出。
 @date time:2017年10月11日下午23:15:18
-@location:https://github.com/Gcaption/studant.git
+@location:https://github.com/Gcaption/student.git
 */
 package 学生;
 public class 学生 {
